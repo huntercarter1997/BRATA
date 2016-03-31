@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:2:1-119:12
+	package
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.jjoe64:graphview:4.0.1] C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:12:5-59
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:12:19-57
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_SMS
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:16:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:20:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:23:5-117:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.jjoe64:graphview:4.0.1] C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:26:9-62
+activity#com.harris.challenge.brata.MainLauncher
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:29:13-66
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:28:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.harris.challenge.brata.BrataLauncherActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:36:9-37:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:36:19-82
+activity#com.harris.challenge.brata.tools.RequestAssignmentActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:38:19-92
+activity#com.harris.challenge.brata.tools.NavigationActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:40:19-85
+activity#com.harris.challenge.brata.tools.RangingActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:42:19-82
+activity#com.harris.challenge.brata.tools.BearingActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:44:19-82
+activity#com.harris.challenge.brata.tools.QRCodeReaderActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:46:19-87
+activity#com.harris.challenge.brata.tools.TimerActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:48:19-80
+activity#com.harris.challenge.brata.tools.LightSensorActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:50:9-51:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:50:19-86
+activity#com.harris.challenge.brata.tools.SubmitResponseActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:52:9-53:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:52:19-89
+activity#com.harris.challenge.brata.tools.InclinationActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:54:19-86
+activity#com.harris.challenge.brata.tools.CountdownActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:56:9-57:20
+	android:theme
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:56:85-124
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:56:19-84
+activity#com.harris.challenge.brata.tools.DistanceFinderActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:58:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:59:10-47
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:58:19-89
+activity#com.harris.challenge.brata.IncidentLauncherActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:61:19-85
+activity#com.harris.challenge.incidents.StraightAsAnArrow
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:63:9-64:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:63:19-82
+activity#com.harris.challenge.incidents.SkidMarks
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:65:9-66:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:65:19-74
+activity#com.harris.challenge.incidents.TwoPlacesAtOnce
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:67:9-68:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:67:19-80
+activity#com.harris.challenge.incidents.DudeMyCar
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:69:9-70:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:69:19-74
+activity#com.harris.challenge.brata.SATChallengeLauncherActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:72:9-73:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:72:19-89
+activity#com.harris.challenge.secret_agent_tools.MasterServerCommunicator
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:74:9-76:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:76:13-49
+	android:theme
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:75:13-53
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:74:19-98
+activity#com.harris.challenge.secret_agent_tools.RegistrationTool
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:77:9-78:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:77:19-90
+activity#com.harris.challenge.secret_agent_tools.Return
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:79:9-80:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:80:13-49
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:79:19-80
+activity#com.harris.challenge.secret_agent_tools.Dock
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:81:9-82:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:81:19-78
+activity#com.harris.challenge.secret_agent_tools.Launch
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:83:9-84:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:83:19-80
+activity#com.harris.challenge.secret_agent_tools.Secure
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:85:9-86:51
+	android:screenOrientation
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:85:19-80
+service#com.harris.challenge.brata.framework.GPSService
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:90:9-83
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:90:18-80
+receiver#com.harris.challenge.brata.framework.SMSReceiver
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:92:9-98:20
+	android:exported
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:94:13-36
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:93:13-76
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:95:13-97:29
+	android:priority
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:95:28-50
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:96:17-82
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:96:25-79
+activity#com.harris.challenge.brata.tools.SoundRecordingActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:100:9-101:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:100:19-89
+activity#com.harris.challenge.brata.MainActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:102:9-105:20
+	android:label
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:104:13-56
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:103:13-67
+activity#com.harris.challenge.brata.framework.UriEntryActivity
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:107:9-116:20
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:107:19-87
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:108:16-111:32
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:110:19-77
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:110:29-75
+intent-filter#android.intent.category.DEFAULT+com.google.zxing.client.android.SCAN
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:112:16-115:32
+action#com.google.zxing.client.android.SCAN
+ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:113:19-80
+	android:name
+		ADDED from C:\Users\0400005\Desktop\brata-hsdc2016\BRATA\app\src\main\AndroidManifest.xml:113:27-78
